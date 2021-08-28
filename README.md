@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">An Android Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **Android, Dagger Hilt, Coroutines etc.**
+- 🌱 I’m currently learning **Android, Compose, Dagger Hilt, Coroutines etc.**
 
-- 💬 Ask me about **Android, Kotlin, JavaScript and Node.JS**
+- 💬 Ask me about **Android, Kotlin, Java, JS and Node**
 
 - 📫 How to reach me **yusufgokmenarisoy@gmail.com**
 
