@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">An Android Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **Compose, Epoxy, Dagger Hilt, Coroutines etc.**
+- 🌱 I’m currently learning **Compose, Dagger Hilt, Coroutines etc.**
 
 - 💬 Ask me about **Android, Kotlin, Java, JS and Node**
 
